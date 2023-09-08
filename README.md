@@ -9,4 +9,4 @@ The code is written for WinCUPL. See the Instructables page for more details.
 
 http://www.instructables.com/id/Dual-BCD-to-Hex-7-Segment-Driver/
 
-https://github.com/jdgabbard/Dual-Binary-to-Hex-7-Seg-Driver/blob/25586fa26c6d1dbe414dc6765cb9987a22d70e78/1.jpg
+![circuit](https://github.com/jdgabbard/Dual-Binary-to-Hex-7-Seg-Driver/blob/25586fa26c6d1dbe414dc6765cb9987a22d70e78/1.jpg)
